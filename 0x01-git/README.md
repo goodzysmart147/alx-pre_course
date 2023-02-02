@@ -1,2 +1,1 @@
-This is my second readme in 0x01-git directory
-ALX is cool
+This is my second readme 
